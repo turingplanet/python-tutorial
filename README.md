@@ -1,2 +1,2 @@
 # python-tutorial
-Codes for Python Tutorials
+《Python一周入门教程》源代码
